@@ -66,10 +66,10 @@ p{
 .btn:hover{
     background: #563434;
 }
-header{
+.header{
     background:radial-gradient(#fff,#ffd6d6);
 }
-header .row{
+.header .row{
     margin-top: 70px;
 }
 .categories{
