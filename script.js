@@ -10,7 +10,7 @@ function menuToggle(){
 }
 
 
-// product gallery 
+// product gallery ---------------
 var productImg = document.getElementById("product-img");
 var smallImg = document.getElementsByClassName("small-img");
 
@@ -26,3 +26,4 @@ smallImg[2].onclick = function(){
 smallImg[3].onclick = function(){
     productImg.src= smallImg[3].src;
 }
+
